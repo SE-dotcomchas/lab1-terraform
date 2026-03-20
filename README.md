@@ -14,7 +14,7 @@ Here is a screenshot of how the pipeline looks like https://gyazo.com/31269e5065
 --------------------------------------
 Here is a screenshot of how the VM looks like in google cloud https://gyazo.com/84ca01d791de161fd1b1b489207390dbs
 --------------------------------------
-Now back to secuity. the project will install ufw, fail2ban, unattended-upgradeds,
+Now back to security. the project will install ufw, fail2ban, unattended-upgradeds,
 
 First off we are gonna talk about ufw. It is a simple firewall that will on default deny all traffic in but allow all traffic out to enhance security. SSH is enabled so that people can remote in on the machine.
 
